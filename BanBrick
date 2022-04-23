@@ -1,0 +1,3 @@
+local A_1 = "BanBrick"
+
+game.ReplicatedStorage.Events.UpdateSkin:FireServer(A_1)
